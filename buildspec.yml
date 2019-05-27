@@ -5,10 +5,11 @@ phases:
     commands:
 
 artifacts:
+  discard-paths: yes
   files:
     -index.html
     -favicon.ico
     -RohiniResume.pdf
     -styles/*
     -images/*
-    discard-paths:yes
+  
