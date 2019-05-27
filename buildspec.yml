@@ -11,3 +11,4 @@ artifacts:
     -RohiniResume.pdf
     -styles/*
     -images/*
+    discard-paths:yes
