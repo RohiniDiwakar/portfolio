@@ -8,6 +8,6 @@ artifacts:
   files:
     -index.html
     -favicon.ico
-    -Rohini Resume latest.pdf
+    -RohiniResume.pdf
     -styles/*
     -images/*
